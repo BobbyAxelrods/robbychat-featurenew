@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # This is extension of robby chat https://github.com/yvann-hub/Robby-chatbot 
 
 # Objective 
@@ -8,10 +7,8 @@
 
 # method to run 
 
-run cmd
-cd to working directory 
-streamlit run src/home.py 
-refer to page 4 and 5 for the features status 
-=======
-# robbychat-featurenew
->>>>>>> 724089eca9daa20d1c18be6d23160df13354709e
+1. run cmd
+2. cd to working directory 
+3. streamlit run src/home.py 
+4. refer to page 4 and 5 for the features status 
+
